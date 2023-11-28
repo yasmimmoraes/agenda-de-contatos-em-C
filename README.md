@@ -9,7 +9,7 @@ O menu inicial conta com 5 opções, além da saída sendo essas:
 4) listar todos os contatos cadastrados
 5) localizar um contato
 
-<img src="Captura de tela agenda.png" width="100%" atl="contact management system menu">
+<img src="Captura de tela agenda.png" width="50%" atl="contact management system menu">
 
 
 ## 🖱️ TADS 2023/2 UDESC
